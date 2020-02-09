@@ -1,3 +1,4 @@
+<?php
 // Complete the alternatingCharacters function below.
 function alternatingCharacters($s) {
   $cnt = 0;
@@ -10,3 +11,4 @@ function alternatingCharacters($s) {
   }
   return $cnt;
 }
+?>
